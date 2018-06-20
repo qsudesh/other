@@ -1,8 +1,6 @@
-> Sort a vector of numbers in descending order with less function.
-> Usage of bind2st function.
-> Difference b/w pValue = new class() and pValue = new class;
-> What is singleton Class, Please explain using code.
-> How you will sort a given array of n elements with 0 and 1 only within O(n) runtime complexity.
-> How virtual functions work in C++. Cna it will imeplemented in pure C?
-
-> 
+1. Sort a vector of numbers in descending order with less function.
+2. Usage of bind2st function.
+3. Difference b/w pValue = new class() and pValue = new class;
+4. What is singleton Class, Please explain using code.
+5. How you will sort a given array of n elements with 0 and 1 only within O(n) runtime complexity.
+6. How virtual functions work in C++. Cna it will imeplemented in pure C? 
