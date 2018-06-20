@@ -1,0 +1,36 @@
+Learn thoroughly about your academic projects. Small basic C language programs. 
+Tell me about yourself.(practice and go),be sure about whatever there in your resume.
+C language:
+1. What are static variables?
+2. Can static variables be constant?
+3. Can value of constant variables be changed?
+4. What are function pointer? Write example function pointer.
+5. Array of function pointer
+6. Pointer to array of function pointers.
+7. Initialized and uninitialized pointers.
+8. Use of union
+9. Explain  C program compilation whole process
+10. Have you written linker file? what is it?
+11. what  is  static & volatile  ? where will use ? why
+12. union vs structure?
+13. little  endian  big endian
+14. storage classes in C?
+Question which are asked in interview for C++ technology
+1) Which are four basic aspects of OOPS?
+2) What is overloading and overriding?
+3) What is encapsulation?
+4) What is basic purpose of encapsulation?
+5) What is inheritance?
+6) What is the use of inheritance?
+7) Which of design pattern you aware of?
+8) What is Singleton pattern?
+9) What is the difference between static function & normal function?
+10) What is Observer pattern?
+11) Explain observer pattern in classical view?
+12) What is factory Pattern?
+13) Is static function call normal function or vice-versa?
+14) What is pointer?
+15) What is polymorphism?
+16) RTP?
+Small c programs like factorial (recursion), addition of two numbers without using + operator etc. searching and sorting’s, basics of data structures.
+
