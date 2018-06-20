@@ -1,0 +1,18 @@
+1. Introduce yourself ?
+2. what is SIGTRAN ?
+3. what are storage class in c?
+4. Difference b/w static and extern storage class?
+5. What is register storage class?
+6. can we declare static variable as extern ?
+7. what is memory layout of c program?
+8. what is public, protected and private access specifier?
+9. Can we declare destruct-or private and what is use-case of that?
+10.  what is virtual keyword?
+11. If there is any UDP client-server program and we are sending 100 bytes to server but same data is not reached at server then name the UNIX command to check that ?
+12. What are differences b/w thread and process ?
+13. If there are two threads A and B and one thread is updating a global variable and on update of that variable second thread needs to execute a function then what we should use for that ?
+14. What are IPC mechanism available ?
+15. what is shared memory ?
+16. what are default functions created in class ?
+17. what are projects you worked on ?
+18. Is there any question for me ?
