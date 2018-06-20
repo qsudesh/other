@@ -1,0 +1,22 @@
+
+First round - programming test
+1)Given a matrix in form of one dimensional print sum of all elements forming pyramid. 
+2)Encode given string with run length mechanism. And decode and print.
+3)Given a file stream implement a efficient way to get total number of special characters
+Second round - technical f2f
+Explain your projects
+How your project is working in live environment
+How template works
+How to debug core file.
+What was your responsibilities in projects
+Explain difference bw vector and map.
+Third round - technical f2f
+Introduce yourself
+What applied materials is doing 
+Why you want to quit job 
+What is constructor
+What is static
+Write code for singleton class
+Detect flaw in singleton class code
+Will it work in multithresding environment
+Why compiler provides default ctor
