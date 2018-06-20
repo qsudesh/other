@@ -1,18 +1,15 @@
-	1. Explain about Little Endian and Big Endian,?
-	2. Write a program to find the system is LE or BE
-	3. Error Mechanism in CAN
-	4. Types of Frames in CAN
-	5. Interrupt mechanism in C
-	6. Volatile and Constant volatile
-	7. Real time example for Volatile variable
-	8. Storage classes in C
-	9. Times and How to handle timers
-	10. Project 
-	11. What is modulation?
-	12. How the signals get transmitted 
-	13. Why many station in FM and Less stations in AM
-	14. Write a program to copy 30 bytes of data from one location to another
-	15. Dynamic memory allocation
-	16. Software development lifecycle of project
-	17. Write a macro to find biggest of three numbers (optimized way)
-	18. Conditional operator in C
+1. Explain about Little Endian and Big Endian,?
+2. Write a program to find the system is LE or BE	
+3. Interrupt mechanism in C
+4. Volatile and Constant volatile
+5. Real time example for Volatile variable
+6. Storage classes in C
+
+1. Project 
+2. What is modulation?
+3. How the signals get transmitted 
+4. Write a program to copy 30 bytes of data from one location to another
+5. Dynamic memory allocation
+6. Software development lifecycle of project
+7. Write a macro to find biggest of three numbers (optimized way)
+8. Conditional operator in C
