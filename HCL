@@ -15,6 +15,5 @@
 1. C Program to convert decimal to binary?
 2. Delete a node in linked list?
 3. What are the types of linux device drivers are present?
-4. How many number of registers are present in the ARM 7 TDMI?
-5. Difference between SPI and I2C
+
  
