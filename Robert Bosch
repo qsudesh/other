@@ -1,11 +1,23 @@
-	1. What is the difference between structure and Union?
-	2. Why we Require Unions in real time?
-	3. What is the purpose of Function pointer and why we require them?
-	4. Write a program to swap two number with and without using third variable?
-	5. In the above programs which is the optimized way ? Why?
-	6. Unsigned char a=200, b=150. swap the numbers without using third variable
-	7. Write a program to find the no. of Even numbers in a given range Excluding prime numbers?
-	8. Explain brief about CAN
-	9. What are the IPC mechanisms in RTOS
-	10. Explain how Task management and Message ques work in RTOS
-	11. Regarding project
+1. What is the difference between structure and Union?
+2. Why we Require Unions in real time?
+3. What is the purpose of Function pointer and why we require them?
+4. Write a program to swap two number with and without using third variable?
+5. In the above programs which is the optimized way ? Why?
+6. Unsigned char a=200, b=150. swap the numbers without using third variable
+7. Write a program to find the no. of Even numbers in a given range Excluding prime numbers?
+8. Explain brief about CAN
+9. What are the IPC mechanisms in RTOS
+10. Explain how Task management and Message ques work in RTOS
+11. Regarding project
+
+
+
+
+1. Operator '+' overloading example program?
+2. Vector insert and delete elements?
+3. CAN protocol frame?
+4. Profibus?
+5. Ethernet Protocol error handling mechanisms?
+6. Memory organization in Embedded controllers.
+7. What are the RTOS worked on and what are their scheduling policies?
+
