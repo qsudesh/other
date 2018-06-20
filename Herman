@@ -1,0 +1,24 @@
+Telecom 
+
+1. Tell me about your projects and skillsets.
+2. What are messages exchanged b/w node a and b in sip communication.
+3. When SDP is not send by A in invite message, then in which message SDP shared by party A to party B.
+4. what is state-full and state-less proxy and what is use case of state-less proxy?
+5. what is forking?
+6. what is record-route?
+7. what is dialog and what are parameters of it?
+8. Types of forking and in case of sequential forking which parameter specify the order of forking i.e. which destination is contacted first and then after? 
+9. What is branch parameter?
+10. what is early media ?
+
+System Programming 
+
+1. what is little-Indian and big-Indian machine. how to check your system is endianness of machine using c program?
+2. how to convert network byte-order to host byte-order by program.
+3. How to check machine's OS is 16, 32 or 64 bits by c program.
+4.  What are types of socket and what is raw-socket ?
+
+C Programming 
+
+1. You have an array of integer's having duplicates of all numbers except one integer, how to find integer which don't have duplicate?
+2.  In c, How to initialize a variable of structure if we don't know position of that variable.
