@@ -1,0 +1,10 @@
+1. What is virtual and how its work. Elaborate how compiler figured out which methods need to call?
+2. What is static and how it's different from global.
+3. Reverse a linked list.
+4. Make an array of object which are already initialized.
+5. How to make objects unassignable even in its member functions.
+6. Write factorial recursive function.
+7. Overload () operator and how is functor is different from function pointer.
+8. Can we declare a reference to an array.
+9. What is polymorphism. What are ways compiler providing polymorphism.
+10. Implement a state machine where one thread is keep sending random events to other thread where that thread needs to treat events in particular sequence. Implementation should work in multithread environment.
