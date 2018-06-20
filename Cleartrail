@@ -10,4 +10,4 @@
 10. What is 3 way handshaking procedure.
 11. How virtual function works.
 12. Difference b/w malloc procedure and new operator.
-13. When malloc function allocates memory we need to provide size of memory but when we are deleting no need to provide size, so free figured out memory size needs to deleted.
+13. When malloc function allocates memory we need to provide size of memory but when we are deleting no need to provide size, so free figured out memory size needs to deleted. 
