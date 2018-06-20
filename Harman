@@ -1,33 +1,10 @@
-	1. Explain about storage classes in C
-	2. Write a program to remove the trailing spaces in C
-	3. Explain about volatile and constant volatile 
-	4. Difference between mutex and semaphore
-	5. Polymorphism and Virtual classes in CPP
-	6. Interrupt management in C
-	7. Brief about project  (all questions)
-	8. 
+1. Explain about storage classes in C
+2. Write a program to remove the trailing spaces in C
+3. Explain about volatile and constant volatile 
+4. Difference between mutex and semaphore
+5. Polymorphism and Virtual classes in CPP
+6. Interrupt management in C
+7. Brief about project  (all questions)
 
-CAN
-	1. How can we detect a missing message
-	2. Why stuff bits added after 5 bits
-	3. What is NRZ coding
-	4. Bit stuffing
-	5. CSMA/CD
-	6. How noise is reduced with differential signal
-	7. CAN bit time segments
-	8. What is SJW
-	9. What is terminating resistor
-	10. Why CAN speed is limited to 1 mbps
-	11. CAN node as NPN tansistor
-	12. What is volatile
-	13. Macro inline difference
-	14. CAN sampling time
-	15. Pre and post sampling in CAN
-	16. What is CAN timeout
-	17. CAN schedule time
-	18. What is CAN time quanta
-	19. What are scheduling alogrithms, what is ratemonotonic algorithm
-	20. RTOS/ipc mechanisms
-	21. What is baud rate prescalar
 
-Is bit rate and baud rate is same in CAN if so why? 
+
