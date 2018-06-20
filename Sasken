@@ -1,18 +1,18 @@
-	1. How to debug multithread programming using gdb
-	2. C program for parenthesis check(match) -> using stack
-	3. Program to count number of objects created on stack/heap
-	4. What if copy constructor has these input parameters (reference, pointer, value)
-	5. Storage classes (scope, lifetime and accessibility)
-	6. How to initialize Constant variable in c++
-	7. Static variable/functions in c++
-	8. Virtual destructor
-	9. Runtime polymorphism
-	10. Default functions provided by C++ compiler
-	11. Semaphore(binary/counting)
-	12. Shared memory
-	13. Virtual inheritance'
-	14. Static cast syntax
-	15. RTOS vs OS
+1. How to debug multithread programming using gdb
+2. C program for parenthesis check(match) -> using stack
+3. Program to count number of objects created on stack/heap
+4. What if copy constructor has these input parameters (reference, pointer, value)
+5. Storage classes (scope, lifetime and accessibility)
+6. How to initialize Constant variable in c++
+7. Static variable/functions in c++
+8. Virtual destructor
+9. Runtime polymorphism
+10. Default functions provided by C++ compiler
+11. Semaphore(binary/counting)
+12. Shared memory
+13. Virtual inheritance'
+14. Static cast syntax
+15. RTOS vs OS
 
 
 
