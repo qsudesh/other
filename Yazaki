@@ -1,9 +1,9 @@
-	1. What are oops concept used in your project code
-	2. How many classes are used in your project
-	3. Is it possible to create base class members using derived class members
-	4. Initialize abstract base class members, while creating derived class object
-	5. Virtual destructor, reason for no virtual constructor
-	6. Is writing destructor mandatory
-	7. Singleton design pattern
+1. What are oops concept used in your project code
+2. How many classes are used in your project
+3. Is it possible to create base class members using derived class members
+4. Initialize abstract base class members, while creating derived class object
+5. Virtual destructor, reason for no virtual constructor
+6. Is writing destructor mandatory
+7. Singleton design pattern
 
 	
