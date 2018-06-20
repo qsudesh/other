@@ -1,0 +1,13 @@
+1. Algorithm to check given string contains only unique characters.
+2. How to sort given an array of 0 and 1 efficiently.
+3. If a derived class inherit base class and object of derived class is created with base class pointer then how many VPTR is created.
+4. What is virtual destructor and tell me scenario where it is required.
+5. Why there is no virtual constructor concept.
+6. What is compile time polymorphism.
+7. How to analyze core file.
+8. If there are multiple core files and names of them are not giving clue that which executable created that core file. Then how will you figure out which application created that core file.
+9. In case of multithreaded program how to do GDB.
+10. What is 3 way handshaking procedure.
+11. How virtual function works.
+12. Difference b/w malloc procedure and new operator.
+13. When malloc function allocates memory we need to provide size of memory but when we are deleting no need to provide size, so free figured out memory size needs to deleted.
