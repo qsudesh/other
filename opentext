@@ -1,0 +1,46 @@
+Hackerrank Test
+
+1. Given a sentence check is it palangram(every character [a-z] is present)?
+2. Given a sentence, rotate each word by 3 position right shift.
+
+
+Written Test
+
+1. Gieven a sorted array, Implement method to check sum of any two elements is equal to given value. 
+   Provide mulitple solution and discuss complexity.
+
+2. Check Given binary tree is BST or not.
+
+
+F2F Interview
+
+
+1. Reverse a linked list; can you do it with only two pointers.
+2. Explain how you can implement TicTacToe Game.
+3. Gieven a sentence, reverse each efficiently.
+4. How system call works (related to switching from user space and kernal space)
+
+5. How static variables works. when we put static variable in a file.c and file.h
+6. Methods C++ compiler will provide.
+7. In multi level inheritance how constructor of all classes will be called and why.
+8. In Copy constructor why we pass argument as reference.
+9. What are difference b/w normal function and object method.
+10. Why we can't create object of abstract class.
+11. what is difference b/w method overloading and overriding. Is always method overriding always happen at runtime.
+   How late binding and runtime polymorphism is different.
+
+F2F Interview
+
+1. What are difference b/w static and dynamic library and discuss advantages and disadvantages. 
+   How to load dynamic library in LInux
+2. Discuss IPC mechanism?
+3. If some crash happened with released delivery( without debugging symbols). Then what are ways to debug.
+4. Given 
+
+  3n + 1 when n is odd
+  n / 2  when n is even
+  
+  so for given range (L,R) print which number L <= N <= R such that it will give longest chain of numbers before stopping to 1.
+  How efficiently we can solve and which data structure fits for it.
+  
+  
