@@ -1,0 +1,17 @@
+1. Given a below class write definition of some functions. like copy constructor, assignment, concatenation.
+
+class String
+{
+  int len;
+  char * ptr;
+};
+
+
+2. How queue can be implemented using linked list and provide definition for enque and deque.
+3. What is difference b/w mutex and semaphore and how we can avoid deadlock scenario.
+4. How we can implement shared_ptr.
+5. Given 8 balls of all same weight except one which is havier than other. In how many ways you can get haviest ball.
+6. Difference b/w aggregation and compostion. 
+7. When we should prefer private variable over protected varaible.
+8. How classes you have used in STL.
+9. Given a sorted array how you will find a element when you don't know length of array.
